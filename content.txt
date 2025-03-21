@@ -1,0 +1,3 @@
+tailwind continue
+daisy ui
+git & github + managment
